@@ -1,33 +1,33 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Packages/manifest.json
+    m_FilePath: C:/Users/motom/KanjiShooting0510/KanjiShooting0510/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638192816920000000
-    m_Hash: 151934956
+      ticks: 638194614235097945
+    m_Hash: 670304346
   m_LockFileStatus:
-    m_FilePath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Packages/packages-lock.json
+    m_FilePath: C:/Users/motom/KanjiShooting0510/KanjiShooting0510/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638192816960000000
-    m_Hash: 1455562419
+      ticks: 638194620998382366
+    m_Hash: 3258991038
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Packages
-m_EditorVersion: 2022.2.0f1 (35dcd44975df)
+m_ProjectPath: C:/Users/motom/KanjiShooting0510/KanjiShooting0510/Packages
+m_EditorVersion: 2021.3.22f1 (b6c551784ba3)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@1.17.7
   testable: 0
   isDirectDependency: 1
   version: 1.17.7
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.collab-proxy@1.17.7
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.collab-proxy@1.17.7
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -112,33 +112,23 @@ m_ResolvedPackages:
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     compatible:
-    - 1.17.7
-    - 2.0.0-preview.6
-    - 2.0.0-preview.8
-    - 2.0.0-preview.15
-    - 2.0.0-preview.17
-    - 2.0.0-preview.20
-    - 2.0.0-preview.21
-    - 2.0.0-preview.22
-    - 2.0.0
     - 2.0.1
     - 2.0.3
     - 2.0.4
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
-    recommended: 1.17.7
-    deprecated: []
+    verified: 2.0.4
   dependencies:
   - name: com.unity.services.core
     version: 1.0.1
   resolvedDependencies:
   - name: com.unity.services.core
-    version: 1.6.0
+    version: 1.8.1
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
+    version: 3.1.0
   - name: com.unity.modules.androidjni
     version: 1.0.0
   keywords:
@@ -174,19 +164,14 @@ m_ResolvedPackages:
     revision: 1641a631fd39029595decb52bdfb641b32ed194c
     path: 
   unityLifecycle:
-    version: 1.17.7
+    version: 2.0.1
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.feature.2d@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.feature.2d@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.feature.2d@1.0.0
   assetPath: Packages/com.unity.feature.2d
   name: com.unity.feature.2d
   displayName: 2D
@@ -208,8 +193,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.2d.animation
     version: default
@@ -227,9 +211,9 @@ m_ResolvedPackages:
     version: default
   resolvedDependencies:
   - name: com.unity.2d.animation
-    version: 9.0.1
+    version: 7.0.10
   - name: com.unity.2d.common
-    version: 8.0.1
+    version: 6.0.6
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.mathematics
@@ -242,30 +226,28 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.modules.animation
+  - name: com.unity.modules.uielementsnative
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.7.3
-  - name: com.unity.collections
-    version: 1.2.4
-  - name: com.unity.test-framework
-    version: 1.1.33
-  - name: com.unity.ext.nunit
-    version: 1.0.6
+    version: 1.6.6
+  - name: com.unity.modules.animation
+    version: 1.0.0
   - name: com.unity.2d.pixel-perfect
-    version: 5.0.2
+    version: 5.0.3
   - name: com.unity.2d.psdimporter
-    version: 8.0.1
+    version: 6.0.7
   - name: com.unity.2d.spriteshape
-    version: 9.0.1
+    version: 7.0.7
+  - name: com.unity.2d.path
+    version: 5.0.2
   - name: com.unity.modules.physics2d
     version: 1.0.0
   - name: com.unity.2d.tilemap
     version: 1.0.0
+  - name: com.unity.2d.tilemap.extras
+    version: 2.2.5
   - name: com.unity.modules.tilemap
     version: 1.0.0
-  - name: com.unity.2d.tilemap.extras
-    version: 3.0.2
   - name: com.unity.ugui
     version: 1.0.0
   keywords: []
@@ -290,17 +272,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.ide.rider@3.0.16
   testable: 0
   isDirectDependency: 1
   version: 3.0.16
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.ide.rider@3.0.16
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.ide.rider@3.0.16
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -354,13 +331,10 @@ m_ResolvedPackages:
     - 3.0.20
     - 3.0.21
     compatible:
-    - 3.0.16
-    - 3.0.17
     - 3.0.18
     - 3.0.20
     - 3.0.21
-    recommended: 3.0.21
-    deprecated: []
+    verified: 3.0.21
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -387,19 +361,14 @@ m_ResolvedPackages:
     revision: 9b718d58b8f7a34e564f2c79af6d2ca788e929d4
     path: 
   unityLifecycle:
-    version: 3.0.16
+    version: 3.0.18
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.ide.visualstudio@2.0.16
   testable: 0
   isDirectDependency: 1
   version: 2.0.16
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.ide.visualstudio@2.0.16
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.ide.visualstudio@2.0.16
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -438,11 +407,9 @@ m_ResolvedPackages:
     - 2.0.17
     - 2.0.18
     compatible:
-    - 2.0.16
     - 2.0.17
     - 2.0.18
-    recommended: 2.0.18
-    deprecated: []
+    verified: 2.0.18
   dependencies:
   - name: com.unity.test-framework
     version: 1.1.9
@@ -475,19 +442,14 @@ m_ResolvedPackages:
     revision: c01855ef6461b821ab0226135e96a4ee86de96be
     path: 
   unityLifecycle:
-    version: 2.0.16
+    version: 2.0.17
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.ide.vscode@1.2.5
   testable: 0
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.ide.vscode@1.2.5
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -519,8 +481,7 @@ m_ResolvedPackages:
     - 1.2.5
     compatible:
     - 1.2.5
-    recommended: 1.2.5
-    deprecated: []
+    verified: 1.2.5
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -545,17 +506,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.5
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.test-framework@1.1.33
   testable: 0
   isDirectDependency: 1
   version: 1.1.33
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.test-framework@1.1.33
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.test-framework@1.1.33
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -614,6 +570,7 @@ m_ResolvedPackages:
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     compatible:
+    - 1.1.31
     - 1.1.33
     - 1.3.0
     - 1.3.1
@@ -624,8 +581,7 @@ m_ResolvedPackages:
     - 2.0.1-exp.2
     - 2.0.1-pre.12
     - 2.0.1-pre.18
-    recommended: 1.1.33
-    deprecated: []
+    verified: 1.1.33
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -662,19 +618,14 @@ m_ResolvedPackages:
     revision: 34a4d423d64926635eb36d3bb86276179cc186e1
     path: 
   unityLifecycle:
-    version: 1.1.33
+    version: 1.1.31
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.textmeshpro@3.0.6
   testable: 0
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -800,10 +751,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.2
     - 3.2.0-pre.3
     - 3.2.0-pre.4
-    - 4.0.0-pre.1
-    - 4.0.0-pre.2
-    recommended: 3.0.6
-    deprecated: []
+    verified: 3.0.6
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -841,17 +789,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 3.0.6
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.timeline@1.7.2
   testable: 0
   isDirectDependency: 1
   version: 1.7.2
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.timeline@1.7.2
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.timeline@1.7.2
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -947,14 +890,19 @@ m_ResolvedPackages:
     - 1.8.1
     - 1.8.2
     compatible:
+    - 1.6.4
+    - 1.6.5
+    - 1.7.0-pre.1
+    - 1.7.0-pre.2
+    - 1.7.0
+    - 1.7.1
     - 1.7.2
     - 1.7.3
     - 1.7.4
     - 1.8.0
     - 1.8.1
     - 1.8.2
-    recommended: 1.7.4
-    deprecated: []
+    verified: 1.6.5
   dependencies:
   - name: com.unity.modules.director
     version: 1.0.0
@@ -998,19 +946,14 @@ m_ResolvedPackages:
     revision: 40b193547031a6a97c1fc47f71900f6690c33c6b
     path: 
   unityLifecycle:
-    version: 1.7.2
+    version: 1.6.4
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.ugui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.ugui@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1032,8 +975,7 @@ m_ResolvedPackages:
     - 3.0.0-exp.1
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.ui
     version: 1.0.0
@@ -1070,17 +1012,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.visualscripting@1.7.8
   testable: 0
   isDirectDependency: 1
   version: 1.7.8
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.visualscripting@1.7.8
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.visualscripting@1.7.8
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1124,12 +1061,8 @@ m_ResolvedPackages:
     - 1.8.0-pre.1
     - 1.8.0
     compatible:
-    - 1.7.8
-    - 1.8.0-pre.1
     - 1.8.0
-    recommended: 1.7.8
-    deprecated:
-    - 1.8.0-pre.1
+    verified: 1.8.0
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -1164,19 +1097,14 @@ m_ResolvedPackages:
     revision: 775a560e6602f51ff05aca02264f8bed4d415fd3
     path: 
   unityLifecycle:
-    version: 1.7.8
+    version: 1.8.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1195,8 +1123,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -1221,17 +1148,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.androidjni@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1249,8 +1171,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -1275,17 +1196,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.animation@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1304,8 +1220,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -1330,17 +1245,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.assetbundle@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1359,8 +1269,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -1385,17 +1294,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.audio@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1414,8 +1318,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -1440,17 +1343,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.cloth@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1469,8 +1367,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.physics
     version: 1.0.0
@@ -1499,17 +1396,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.director@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.director@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1528,8 +1420,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.audio
     version: 1.0.0
@@ -1562,17 +1453,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.imageconversion@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1592,8 +1478,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -1618,17 +1503,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.imgui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1647,8 +1527,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -1673,17 +1552,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.jsonserialize@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1702,8 +1576,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -1728,17 +1601,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.particlesystem@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -1757,8 +1625,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -1783,17 +1650,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.physics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -1812,8 +1674,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -1838,17 +1699,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.physics2d@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -1867,8 +1723,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -1893,17 +1748,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.screencapture@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -1922,8 +1772,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.imageconversion
     version: 1.0.0
@@ -1952,17 +1801,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.terrain@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -1981,8 +1825,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2007,17 +1850,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.terrainphysics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2036,8 +1874,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.physics
     version: 1.0.0
@@ -2070,17 +1907,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.tilemap@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2098,8 +1930,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.physics2d
     version: 1.0.0
@@ -2128,17 +1959,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.ui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2157,8 +1983,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2183,17 +2008,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.uielements@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2212,8 +2032,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.ui
     version: 1.0.0
@@ -2221,12 +2040,16 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
   resolvedDependencies:
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
     version: 1.0.0
   keywords: []
   registry:
@@ -2250,17 +2073,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.umbra@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2279,8 +2097,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2305,17 +2122,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.unityanalytics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2334,8 +2146,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
@@ -2368,17 +2179,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.unitywebrequest@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2397,8 +2203,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2423,17 +2228,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.unitywebrequestassetbundle@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2452,8 +2252,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.assetbundle
     version: 1.0.0
@@ -2486,17 +2285,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.unitywebrequestaudio@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2515,8 +2309,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
@@ -2549,17 +2342,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.unitywebrequesttexture@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2578,8 +2366,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
@@ -2612,17 +2399,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.unitywebrequestwww@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2641,8 +2423,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
@@ -2691,17 +2472,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.vehicles@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -2720,8 +2496,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.physics
     version: 1.0.0
@@ -2750,17 +2525,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.video@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.video@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -2779,8 +2549,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.audio
     version: 1.0.0
@@ -2817,17 +2586,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.vr@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -2846,8 +2610,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
@@ -2886,17 +2649,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.wind@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -2915,8 +2673,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2941,17 +2698,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.xr@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -2970,8 +2722,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.physics
     version: 1.0.0
@@ -3008,17 +2759,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.subsystems@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3037,8 +2783,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
@@ -3067,17 +2812,72 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
+- packageId: com.unity.modules.uielementsnative@1.0.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+  assetPath: Packages/com.unity.modules.uielementsnative
+  name: com.unity.modules.uielementsnative
+  displayName: UIElements Native
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies:
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
 - packageId: com.unity.ext.nunit@1.0.6
   testable: 0
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -3086,7 +2886,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Libraries
-  type: 
+  type: asset
   description: Custom version of the nunit package build to work with Unity. Used
     by the Unity Test Framework.
   status: 0
@@ -3105,8 +2905,7 @@ m_ResolvedPackages:
     - 1.0.6
     - 2.0.2
     - 2.0.3
-    recommended: 1.0.6
-    deprecated: []
+    verified: 1.0.6
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -3121,7 +2920,7 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637429759280000000
   documentationUrl: 
@@ -3134,17 +2933,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.6
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.2d.animation@9.0.1
+- packageId: com.unity.2d.animation@7.0.10
   testable: 0
   isDirectDependency: 0
-  version: 9.0.1
+  version: 7.0.10
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.2d.animation@9.0.1
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.2d.animation@7.0.10
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -3267,28 +3061,26 @@ m_ResolvedPackages:
     - 9.0.0
     - 9.0.1
     - 9.0.2
+    - 9.0.3
     - 10.0.0-pre.1
     - 10.0.0-pre.2
     - 10.0.0
+    - 10.0.1
     compatible:
-    - 9.0.1
-    - 9.0.2
-    recommended: 9.0.2
-    deprecated: []
+    - 7.0.10
+    verified: 7.0.10
   dependencies:
   - name: com.unity.2d.common
-    version: 8.0.1
+    version: 6.0.6
   - name: com.unity.2d.sprite
     version: 1.0.0
-  - name: com.unity.collections
-    version: 1.1.0
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.modules.uielements
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.2d.common
-    version: 8.0.1
+    version: 6.0.6
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.mathematics
@@ -3301,16 +3093,12 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.modules.animation
+  - name: com.unity.modules.uielementsnative
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.7.3
-  - name: com.unity.collections
-    version: 1.2.4
-  - name: com.unity.test-framework
-    version: 1.1.33
-  - name: com.unity.ext.nunit
-    version: 1.0.6
+    version: 1.6.6
+  - name: com.unity.modules.animation
+    version: 1.0.0
   keywords:
   - 2d
   - animation
@@ -3324,28 +3112,23 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638029769620000000
-  documentationUrl: 
+  datePublishedTicks: 638140403120000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.animation@7.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 6fc635d83d4bb0b2640893b8d4a0f3934044aeb5
+    revision: 2dba3153b5c4ffa75993dfca0bd0df8cbc28809c
     path: 
   unityLifecycle:
-    version: 9.0.1
+    version: 7.0.10
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.2d.pixel-perfect@5.0.2
+- packageId: com.unity.2d.pixel-perfect@5.0.3
   testable: 0
   isDirectDependency: 0
-  version: 5.0.2
+  version: 5.0.3
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.2d.pixel-perfect@5.0.2
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.3
   assetPath: Packages/com.unity.2d.pixel-perfect
   name: com.unity.2d.pixel-perfect
   displayName: 2D Pixel Perfect
@@ -3387,10 +3170,8 @@ m_ResolvedPackages:
     - 5.0.2
     - 5.0.3
     compatible:
-    - 5.0.2
     - 5.0.3
-    recommended: 5.0.3
-    deprecated: []
+    verified: 5.0.3
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -3408,28 +3189,23 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637977148500000000
+  datePublishedTicks: 638023910590000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: bc53d04adcc860159dcd9355c8e721a5124b1a35
+    revision: 6dea8ac5bd6953acd64f1ac9d470912954b0c015
     path: 
   unityLifecycle:
-    version: 5.0.2
+    version: 5.0.3
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.2d.psdimporter@8.0.1
+- packageId: com.unity.2d.psdimporter@6.0.7
   testable: 0
   isDirectDependency: 0
-  version: 8.0.1
+  version: 6.0.7
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.2d.psdimporter@8.0.1
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.2d.psdimporter@6.0.7
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -3518,22 +3294,20 @@ m_ResolvedPackages:
     - 9.0.0-pre.2
     - 9.0.0
     compatible:
-    - 8.0.1
-    - 8.0.2
-    recommended: 8.0.2
-    deprecated: []
+    - 6.0.7
+    verified: 6.0.7
   dependencies:
   - name: com.unity.2d.animation
-    version: 9.0.1
+    version: 7.0.9
   - name: com.unity.2d.common
-    version: 8.0.1
+    version: 6.0.6
   - name: com.unity.2d.sprite
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.2d.animation
-    version: 9.0.1
+    version: 7.0.10
   - name: com.unity.2d.common
-    version: 8.0.1
+    version: 6.0.6
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.mathematics
@@ -3546,16 +3320,12 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.modules.animation
+  - name: com.unity.modules.uielementsnative
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.7.3
-  - name: com.unity.collections
-    version: 1.2.4
-  - name: com.unity.test-framework
-    version: 1.1.33
-  - name: com.unity.ext.nunit
-    version: 1.0.6
+    version: 1.6.6
+  - name: com.unity.modules.animation
+    version: 1.0.0
   keywords:
   - 2d
   - psdimporter
@@ -3570,28 +3340,23 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638029769650000000
-  documentationUrl: 
+  datePublishedTicks: 638067887380000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.psdimporter@6.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 6fc635d83d4bb0b2640893b8d4a0f3934044aeb5
+    revision: 911204bb63dcf2da80b6063d54c4ec8737ad13dc
     path: 
   unityLifecycle:
-    version: 8.0.1
+    version: 6.0.7
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.2d.sprite@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.2d.sprite@1.0.0
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -3610,8 +3375,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -3639,17 +3403,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.2d.spriteshape@9.0.1
+- packageId: com.unity.2d.spriteshape@7.0.7
   testable: 0
   isDirectDependency: 0
-  version: 9.0.1
+  version: 7.0.7
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.2d.spriteshape@9.0.1
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.2d.spriteshape@7.0.7
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -3747,22 +3506,22 @@ m_ResolvedPackages:
     - 10.0.0-pre.2
     - 10.0.0
     compatible:
-    - 9.0.1
-    - 9.0.2
-    recommended: 9.0.2
-    deprecated: []
+    - 7.0.7
+    verified: 7.0.7
   dependencies:
   - name: com.unity.mathematics
     version: 1.1.0
   - name: com.unity.2d.common
-    version: 8.0.1
+    version: 6.0.6
+  - name: com.unity.2d.path
+    version: 5.0.2
   - name: com.unity.modules.physics2d
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.2d.common
-    version: 8.0.1
+    version: 6.0.6
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.modules.uielements
@@ -3773,10 +3532,12 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.modules.animation
+  - name: com.unity.modules.uielementsnative
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.7.3
+    version: 1.6.6
+  - name: com.unity.2d.path
+    version: 5.0.2
   - name: com.unity.modules.physics2d
     version: 1.0.0
   keywords:
@@ -3796,28 +3557,23 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638029769690000000
-  documentationUrl: 
+  datePublishedTicks: 638140403060000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.spriteshape@7.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 6fc635d83d4bb0b2640893b8d4a0f3934044aeb5
+    revision: 2dba3153b5c4ffa75993dfca0bd0df8cbc28809c
     path: 
   unityLifecycle:
-    version: 9.0.1
+    version: 7.0.7
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.2d.tilemap@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.2d.tilemap@1.0.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.2d.tilemap@1.0.0
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -3836,26 +3592,9 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
-  dependencies:
-  - name: com.unity.modules.tilemap
-    version: 1.0.0
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.tilemap
-    version: 1.0.0
-  - name: com.unity.modules.physics2d
-    version: 1.0.0
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
   keywords:
   - 2d
   - Tilemap
@@ -3880,17 +3619,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.2d.tilemap.extras@3.0.2
+- packageId: com.unity.2d.tilemap.extras@2.2.5
   testable: 0
   isDirectDependency: 0
-  version: 3.0.2
+  version: 2.2.5
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.2d.tilemap.extras@3.0.2
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.2d.tilemap.extras@2.2.5
   assetPath: Packages/com.unity.2d.tilemap.extras
   name: com.unity.2d.tilemap.extras
   displayName: 2D Tilemap Extras
@@ -3950,11 +3684,8 @@ m_ResolvedPackages:
     - 4.0.0-pre.3
     - 4.0.0
     compatible:
-    - 3.0.2
-    - 3.0.3
-    - 3.1.0
-    recommended: 3.0.3
-    deprecated: []
+    - 2.2.5
+    verified: 2.2.5
   dependencies:
   - name: com.unity.modules.tilemap
     version: 1.0.0
@@ -3971,15 +3702,13 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.2d.tilemap
     version: 1.0.0
-  - name: com.unity.modules.uielements
+  - name: com.unity.ugui
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.ugui
     version: 1.0.0
   keywords:
   - 2d
@@ -3993,28 +3722,23 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637865592570000000
-  documentationUrl: 
+  datePublishedTicks: 638140403150000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.tilemap.extras@2.2/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/2d-extras.git
-    revision: 8454efea2f724c27d6bb0092fe7bb5b169ccea44
+    revision: 0c2229262e21f917bff8c9669b96e2a3147428dd
     path: 
   unityLifecycle:
-    version: 3.0.2
+    version: 2.2.5
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.services.core@1.6.0
+- packageId: com.unity.services.core@1.8.1
   testable: 0
   isDirectDependency: 0
-  version: 1.6.0
+  version: 1.8.1
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.services.core@1.6.0
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.services.core@1.8.1
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -4023,7 +3747,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: 
   description: 'This package defines common components used by multiple Game Service
     packages.
 
@@ -4033,35 +3757,10 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.0.1
-    - 1.1.0-pre.7
-    - 1.1.0-pre.8
-    - 1.1.0-pre.9
-    - 1.1.0-pre.10
-    - 1.1.0-pre.11
-    - 1.1.0-pre.41
-    - 1.1.0-pre.69
-    - 1.2.0
-    - 1.3.1
-    - 1.3.2
-    - 1.4.0
-    - 1.4.1
-    - 1.4.2
-    - 1.4.3
-    - 1.5.2
-    - 1.6.0
-    - 1.7.0
-    - 1.7.1
     - 1.8.1
-    - 1.8.2
     compatible:
-    - 1.6.0
-    - 1.7.0
-    - 1.7.1
     - 1.8.1
-    - 1.8.2
-    recommended: 1.6.0
-    deprecated: []
+    verified: 1.8.1
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
@@ -4073,7 +3772,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
+    version: 3.1.0
   - name: com.unity.modules.androidjni
     version: 1.0.0
   keywords: []
@@ -4085,30 +3784,25 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638030857680000000
-  documentationUrl: 
+  datePublishedTicks: 0
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.core@1.8/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: 815a0c96703c69956fde4fc798e35dd8d0cc3af1
+    revision: 96af1c3c3deca8f9eab83d1027e4aec3cc5559b6
     path: 
   unityLifecycle:
-    version: 1.6.0
+    version: 1.8.1
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.mathematics@1.2.6
   testable: 0
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.mathematics@1.2.6
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.mathematics@1.2.6
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -4117,7 +3811,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: Unity's C# SIMD math library providing vector types and math functions
     with a shader like syntax.
   status: 0
@@ -4143,8 +3837,7 @@ m_ResolvedPackages:
     - 1.2.6
     compatible:
     - 1.2.6
-    recommended: 1.2.6
-    deprecated: []
+    verified: 1.2.6
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -4157,7 +3850,7 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637841876140000000
   documentationUrl: 
@@ -4170,17 +3863,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.6
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.2d.common@8.0.1
+- packageId: com.unity.2d.common@6.0.6
   testable: 0
   isDirectDependency: 0
-  version: 8.0.1
+  version: 6.0.6
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.2d.common@8.0.1
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.2d.common@6.0.6
   assetPath: Packages/com.unity.2d.common
   name: com.unity.2d.common
   displayName: 2D Common
@@ -4245,9 +3933,8 @@ m_ResolvedPackages:
     - 9.0.0-pre.2
     - 9.0.0
     compatible:
-    - 8.0.1
-    recommended: 8.0.1
-    deprecated: []
+    - 6.0.6
+    verified: 6.0.6
   dependencies:
   - name: com.unity.2d.sprite
     version: 1.0.0
@@ -4255,10 +3942,8 @@ m_ResolvedPackages:
     version: 1.1.0
   - name: com.unity.modules.uielements
     version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
   - name: com.unity.burst
-    version: 1.7.3
+    version: 1.5.1
   resolvedDependencies:
   - name: com.unity.2d.sprite
     version: 1.0.0
@@ -4272,10 +3957,10 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.modules.animation
+  - name: com.unity.modules.uielementsnative
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.7.3
+    version: 1.6.6
   keywords:
   - 2d
   registry:
@@ -4288,128 +3973,67 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638029769550000000
+  datePublishedTicks: 638035874770000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 6fc635d83d4bb0b2640893b8d4a0f3934044aeb5
+    revision: aebc9b022b1d3ecdcc734e0ee8f139df3f3fe3dd
     path: 
   unityLifecycle:
-    version: 8.0.1
+    version: 6.0.6
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.collections@1.2.4
+- packageId: com.unity.2d.path@5.0.2
   testable: 0
   isDirectDependency: 0
-  version: 1.2.4
+  version: 5.0.2
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.collections@1.2.4
-  assetPath: Packages/com.unity.collections
-  name: com.unity.collections
-  displayName: Collections
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.2d.path@5.0.2
+  assetPath: Packages/com.unity.2d.path
+  name: com.unity.2d.path
+  displayName: 2D Path
   author:
     name: 
     email: 
     url: 
-  category: 
+  category: 2D
   type: asset
-  description: A C# collections library providing data structures that can be used
-    in jobs, and optimized by Burst compiler.
+  description: "2D Path provides tooling to edit shapes (polygons and B\xE9zier splines)
+    in EditorWindows and the SceneView."
   status: 0
   errors: []
   versions:
     all:
-    - 0.0.9-preview.1
-    - 0.0.9-preview.2
-    - 0.0.9-preview.3
-    - 0.0.9-preview.4
-    - 0.0.9-preview.5
-    - 0.0.9-preview.6
-    - 0.0.9-preview.7
-    - 0.0.9-preview.8
-    - 0.0.9-preview.9
-    - 0.0.9-preview.10
-    - 0.0.9-preview.11
-    - 0.0.9-preview.12
-    - 0.0.9-preview.13
-    - 0.0.9-preview.14
-    - 0.0.9-preview.15
-    - 0.0.9-preview.16
-    - 0.0.9-preview.17
-    - 0.0.9-preview.18
-    - 0.0.9-preview.19
-    - 0.0.9-preview.20
-    - 0.1.0-preview
-    - 0.1.1-preview
-    - 0.2.0-preview.13
-    - 0.3.0-preview.0
-    - 0.4.0-preview.6
-    - 0.5.0-preview.9
-    - 0.5.1-preview.11
-    - 0.5.2-preview.8
-    - 0.6.0-preview.9
-    - 0.7.0-preview.2
-    - 0.7.1-preview.3
-    - 0.8.0-preview.5
-    - 0.9.0-preview.5
-    - 0.9.0-preview.6
-    - 0.11.0-preview.17
-    - 0.12.0-preview.13
-    - 0.14.0-preview.16
-    - 0.15.0-preview.21
-    - 0.17.0-preview.18
-    - 1.0.0-pre.3
-    - 1.0.0-pre.5
-    - 1.0.0-pre.6
-    - 1.1.0
-    - 1.2.3-pre.1
-    - 1.2.3
-    - 1.2.4
-    - 1.3.1
-    - 1.4.0
-    - 2.1.0-exp.4
-    - 2.1.0-pre.2
-    - 2.1.0-pre.6
-    - 2.1.0-pre.11
-    - 2.1.0-pre.18
+    - 1.0.0-preview.1
+    - 1.0.0-preview.4
+    - 2.0.1
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
+    - 2.1.0
     - 2.1.1
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
     compatible:
-    - 1.2.4
-    - 1.3.1
-    - 1.4.0
-    - 2.1.0-exp.4
-    - 2.1.0-pre.2
-    - 2.1.0-pre.6
-    recommended: 1.2.4
-    deprecated: []
-  dependencies:
-  - name: com.unity.burst
-    version: 1.6.6
-  - name: com.unity.test-framework
-    version: 1.1.31
-  resolvedDependencies:
-  - name: com.unity.burst
-    version: 1.7.3
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.test-framework
-    version: 1.1.33
-  - name: com.unity.ext.nunit
-    version: 1.0.6
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
+    - 5.0.2
+    verified: 5.0.2
+  dependencies: []
+  resolvedDependencies: []
   keywords:
-  - dots
-  - collections
-  - unity
+  - 2d
+  - path
   registry:
     id: main
     name: 
@@ -4420,28 +4044,23 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637908244640000000
+  datePublishedTicks: 637817447940000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/dots.git
-    revision: 32d153034bea0703098263469b88c73619422782
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: 41fd674f8e4b2265bdbc50291dced1bd86c590ee
     path: 
   unityLifecycle:
-    version: 1.2.4
-    nextVersion: 2.1.0-pre.6
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.nuget.newtonsoft-json@3.0.2
+    version: 5.0.2
+    nextVersion: 
+- packageId: com.unity.nuget.newtonsoft-json@3.1.0
   testable: 0
   isDirectDependency: 0
-  version: 3.0.2
+  version: 3.1.0
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.1.0
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json
@@ -4452,7 +4071,7 @@ m_ResolvedPackages:
   category: 
   type: library
   description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
-    synced to version 13.0.1.
+    synced to version 13.0.2.
 
 
     This package is used for advanced json serialization
@@ -4465,29 +4084,10 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.0.0-preview.2
-    - 1.0.0-preview.3
-    - 1.0.0-preview.4
-    - 1.0.1-preview.1
-    - 1.1.2
-    - 2.0.0-preview
-    - 2.0.0-preview.1
-    - 2.0.0-preview.2
-    - 2.0.0
-    - 2.0.1-preview.1
-    - 2.0.2
-    - 3.0.1
-    - 3.0.2
     - 3.1.0
-    - 3.2.0
-    - 3.2.1
     compatible:
-    - 3.0.2
     - 3.1.0
-    - 3.2.0
-    - 3.2.1
-    recommended: 3.0.2
-    deprecated: []
+    verified: 3.1.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -4501,28 +4101,23 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637846828220000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
-    revision: 8f66870a71ad3f2cdd46330b5c482dfd138ffc64
+    revision: 686b43c15210b5f3e0145e51147079a8d2551bd9
     path: 
   unityLifecycle:
-    version: 3.0.2
+    version: 3.1.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.burst@1.7.3
+- packageId: com.unity.burst@1.6.6
   testable: 0
   isDirectDependency: 0
-  version: 1.7.3
+  version: 1.6.6
   source: 1
-  resolvedPath: /Users/ik/Documents/GitTest/KanjiShooting0510/KanjiShooting0510/Library/PackageCache/com.unity.burst@1.7.3
+  resolvedPath: C:\Users\motom\KanjiShooting0510\KanjiShooting0510\Library\PackageCache\com.unity.burst@1.6.6
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -4660,6 +4255,11 @@ m_ResolvedPackages:
     - 1.8.3
     - 1.8.4
     compatible:
+    - 1.6.6
+    - 1.7.0-pre.1
+    - 1.7.0
+    - 1.7.1
+    - 1.7.2
     - 1.7.3
     - 1.7.4
     - 1.8.0-pre.1
@@ -4669,8 +4269,7 @@ m_ResolvedPackages:
     - 1.8.2
     - 1.8.3
     - 1.8.4
-    recommended: 1.7.4
-    deprecated: []
+    verified: 1.6.6
   dependencies:
   - name: com.unity.mathematics
     version: 1.2.1
@@ -4688,19 +4287,14 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637914262830000000
+  datePublishedTicks: 637902875830000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/burst.git
-    revision: 22fd3afd45fa12529bd8bd647d2a3a3af2e871bc
+    revision: 21ee3d01c6a374f6b01106f9eb6f1b43e113b1a3
     path: 
   unityLifecycle:
-    version: 1.7.3
-    nextVersion: 1.8.0-pre.1
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
+    version: 1.6.6
+    nextVersion: 
