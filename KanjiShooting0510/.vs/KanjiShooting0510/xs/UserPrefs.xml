@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C2BF128E-7037-B114-6E3A-4EFBDA76D549}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StageInfo.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AircraftController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Drg_Drp.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StageInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BackGroundMover.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BulletController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KanjiShooting0510" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fde46355-07b2-49e9-8d54-363127583e54" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
